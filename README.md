@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-![mishmanners snake gif](https://github.com/imerdis/ImErdis/blob/output/github-contribution-grid-snake.svg)
+![ImErdis snake gif](https://github.com/imerdis/ImErdis/blob/output/github-contribution-grid-snake.svg)
 
 ###
