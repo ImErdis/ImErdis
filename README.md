@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ImErdis/ImErdis/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/ImErdis/ImErdis/blob/output/github-contribution-grid-snake2.svg)
 
 ###
