@@ -1,19 +1,17 @@
-### <div align="center">Hi 👋! My name is Erfan and I'm a student, from Iran</div>  
+## <div align="center">Hi 👋! My name is Erfan and I'm a student, from Iran</div>
+-  🔭 Currently exploring the world of coding with a curious mind, always seeking new challenges to conquer  
   
 
-- ##### 🔭 Currently exploring the world of coding with a curious mind, always seeking new challenges to conquer  
+-  👯 Open to collaborating on exciting coding projects that push the boundaries of creativity and innovation.  
   
 
-- ##### 👯 Open to collaborating on exciting coding projects that push the boundaries of creativity and innovation.  
+-  🤝 Looking for assistance and guidance to master the intricacies of Python and JavaScript, and eagerly anticipating my journey into C++.  
   
 
-- ##### 🤝 Looking for assistance and guidance to master the intricacies of Python and JavaScript, and eagerly anticipating my journey into C++.  
+-  💬 Feel free to reach out to me with any questions related to programming, problem-solving, or tech in general.  
   
 
-- ##### 💬 Feel free to reach out to me with any questions related to programming, problem-solving, or tech in general.  
-  
-
-###### ⚡ Fun fact: I find inspiration in the ever-evolving world of technology and constantly seek to translate my creativity into lines of code.  
+ ⚡ Fun fact: I find inspiration in the ever-evolving world of technology and constantly seek to translate my creativity into lines of code.  
   
 
 <br/>  
