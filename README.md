@@ -1,7 +1,4 @@
-<div align="center">
-    <h3>Hi 👋! My name is Erfan and I'm a student, from Iran</h3>
-</div>
-
+<div align="center"><h3>Hi 👋! My name is Erfan and I'm a student, from Iran</h3></div>
 <ul>
     <li><strong>🔭</strong> Currently exploring the world of coding with a curious mind, always seeking new challenges to conquer</li>
     <li><strong>👯</strong> Open to collaborating on exciting coding projects that push the boundaries of creativity and innovation.</li>
@@ -33,7 +30,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=imerdis&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
-
+<br/>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=imerdis&&style=flat-square" align="center" />
 </div>
