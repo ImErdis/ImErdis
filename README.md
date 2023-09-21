@@ -34,10 +34,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=imerdis&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>
 
-<hr />
-
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=imerdis&&style=flat-square" align="center" />
 </div>
-
-<hr />
