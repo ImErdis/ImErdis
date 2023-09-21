@@ -8,10 +8,7 @@
     <li><strong>🤝</strong> Looking for assistance and guidance to master the intricacies of Python and JavaScript, and eagerly anticipating my journey into C++.</li>
     <li><strong>💬</strong> Feel free to reach out to me with any questions related to programming, problem-solving, or tech in general.</li>
 </ul>
-
 <p><small>⚡ Fun fact: I find inspiration in the ever-evolving world of technology and constantly seek to translate my creativity into lines of code.</small></p>
-
-<hr />
 
 <h2>My Skill Set</h2>
 <div align="center">
@@ -31,8 +28,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="40" alt="cplusplus logo" />
 </div>
-
-<hr />
 
 <h2>Github Stats</h2>
 <div align="center">
