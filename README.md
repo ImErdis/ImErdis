@@ -1,4 +1,4 @@
-<div align="center"><h3>Hi 👋! I am Erdis and I'm a student, from Iran</h3></div>
+<div align="center"><h3>Hi 👋! I am Erdis and I'm a student</h3></div>
 <ul>
     <li><strong>🔭</strong> Currently exploring the world of coding with a curious mind, always seeking new challenges to conquer</li>
     <li><strong>👯</strong> Open to collaborating on exciting coding projects that push the boundaries of creativity and innovation.</li>
